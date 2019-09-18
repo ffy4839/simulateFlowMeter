@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6d0c69c1-1e01-47df-8b32-db5803437166" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flowMeter/bin/engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/flowMeter/bin/engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flowMeter/bin/save.py" beforeDir="false" afterPath="$PROJECT_DIR$/flowMeter/bin/save.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flowMeter/bin/serials.py" beforeDir="false" afterPath="$PROJECT_DIR$/flowMeter/bin/serials.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flowMeter/protocol/zhws.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flowMeter/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/flowMeter/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +20,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flowMeter/bin/serials.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="54">
+              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
               <folding>
-                <element signature="e#1777#2415#0" />
+                <element signature="e#78#2202#0" />
+                <element signature="e#127#247#0" />
+                <element signature="e#286#976#0" />
+                <element signature="e#1024#1382#0" />
+                <element signature="e#1424#2053#0" />
               </folding>
             </state>
           </provider>
@@ -28,26 +36,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/中核维斯.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2517">
+            <state relative-caret-position="18">
               <caret line="25" selection-start-line="25" selection-end-line="43" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flowMeter/protocol/zhws.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flowMeter/protocol/protocol.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+            <state relative-caret-position="324">
+              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -55,8 +54,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flowMeter/bin/engine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="32" />
+            <state relative-caret-position="144">
+              <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+              <folding>
+                <element signature="e#3935#6337#0" />
+                <element signature="e#5007#5011#0" />
+                <element signature="e#5170#5237#0" />
+                <element signature="e#5132#5390#0" />
+                <element signature="e#4306#4327#0" />
+                <element signature="e#4636#4848#0" />
+                <element signature="e#3897#4112#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flowMeter/bin/func.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="12" />
+            <state relative-caret-position="198">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -76,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flowMeter/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+            <state relative-caret-position="224">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -87,6 +95,15 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flowMeter/bin/save.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flowMeter/__init__.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -106,13 +123,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/flowMeter/bin/func.py" />
-        <option value="$PROJECT_DIR$/flowMeter/bin/save.py" />
-        <option value="$PROJECT_DIR$/flowMeter/bin/engine.py" />
-        <option value="$PROJECT_DIR$/flowMeter/test.py" />
-        <option value="$PROJECT_DIR$/flowMeter/bin/serials.py" />
         <option value="$USER_HOME$/Desktop/中核维斯.py" />
         <option value="$PROJECT_DIR$/flowMeter/protocol/zhws.py" />
         <option value="$PROJECT_DIR$/flowMeter/protocol/protocol.py" />
+        <option value="$PROJECT_DIR$/flowMeter/test.py" />
+        <option value="$PROJECT_DIR$/flowMeter/bin/run.py" />
+        <option value="$PROJECT_DIR$/flowMeter/bin/save.py" />
+        <option value="$PROJECT_DIR$/flowMeter/bin/serials.py" />
+        <option value="$PROJECT_DIR$/flowMeter/bin/engine.py" />
+        <option value="$PROJECT_DIR$/flowMeter/run.py" />
       </list>
     </option>
   </component>
@@ -126,9 +145,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="147" />
-    <option name="y" value="185" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="454" />
+    <option name="y" value="141" />
     <option name="width" value="1036" />
     <option name="height" value="725" />
   </component>
@@ -140,6 +159,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,23 +172,10 @@
               <item name="simulateFlowMeter" type="462c0819:PsiDirectoryNode" />
               <item name="flowMeter" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="simulateFlowMeter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="simulateFlowMeter" type="462c0819:PsiDirectoryNode" />
-              <item name="flowMeter" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="simulateFlowMeter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="simulateFlowMeter" type="462c0819:PsiDirectoryNode" />
-              <item name="flowMeter" type="462c0819:PsiDirectoryNode" />
-              <item name="protocol" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,15 +258,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="7" />
-    <editor active="true" />
+    <frame x="454" y="141" width="1036" height="725" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15779468" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15731463" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32802126" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32536522" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15371622" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -274,30 +280,23 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/flowMeter/bin/save.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/flowMeter/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        <state relative-caret-position="224">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flowMeter/bin/engine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="32" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/flowMeter/bin/run.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/flowMeter/bin/func.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="12" />
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -311,29 +310,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flowMeter/bin/serials.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="e#1777#2415#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/中核维斯.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2517">
+        <state relative-caret-position="18">
           <caret line="25" selection-start-line="25" selection-end-line="43" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flowMeter/protocol/protocol.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+        <state relative-caret-position="324">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flowMeter/bin/serials.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding>
+            <element signature="e#78#2202#0" />
+            <element signature="e#127#247#0" />
+            <element signature="e#286#976#0" />
+            <element signature="e#1024#1382#0" />
+            <element signature="e#1424#2053#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flowMeter/bin/save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flowMeter/run.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flowMeter/bin/engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+          <folding>
+            <element signature="e#3935#6337#0" />
+            <element signature="e#5007#5011#0" />
+            <element signature="e#5170#5237#0" />
+            <element signature="e#5132#5390#0" />
+            <element signature="e#4306#4327#0" />
+            <element signature="e#4636#4848#0" />
+            <element signature="e#3897#4112#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flowMeter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

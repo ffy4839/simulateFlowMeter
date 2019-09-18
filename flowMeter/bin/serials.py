@@ -9,9 +9,6 @@ class serial_flowMeter(serial.Serial):
         self.err = []
         self.opened()
 
-
-
-
     def send(self, data):
         if not isinstance(data, str):
             self.err.append('{} | "send" type(str) Err {}'.format(time_now(),str(data)))
@@ -81,3 +78,4 @@ class serial_flowMeter(serial.Serial):
     def closed(self):
         if self.is_open:
             self.close()
+
